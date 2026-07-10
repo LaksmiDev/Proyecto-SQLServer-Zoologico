@@ -1,4 +1,4 @@
-# Proyecto SQL Server - Zoológico G4
+# Proyecto SQL Server - Zoológico 
 
 Este repositorio contiene el script SQL corregido de una base de datos relacional en **SQL Server** para un sistema de zoológico.
 
@@ -9,7 +9,7 @@ Este repositorio contiene el script SQL corregido de una base de datos relaciona
 ## Cómo ejecutarlo
 
 1. Abrir **SQL Server Management Studio**.
-2. Abrir el archivo `scripts/FINAL_GRUPO4_CORREGIDO.sql`.
+2. Abrir el archivo `scripts/bd_zoologico.sql`.
 3. Ejecutar el script completo en una instancia de SQL Server.
 4. Verificar que se cree la base de datos `Zoologico`.
 
