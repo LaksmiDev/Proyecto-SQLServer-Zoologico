@@ -4,7 +4,7 @@ Este repositorio contiene el script SQL corregido de una base de datos relaciona
 
 ## Archivo principal
 
-- `scripts/FINAL_GRUPO4_CORREGIDO.sql`
+- `scripts/bd_zoologico.sql`
 
 ## Cómo ejecutarlo
 
